@@ -29,8 +29,6 @@ Criação de cartazes montáveis usando a Função de Mosaico.
 
 <div align="center">
   <p>Escaneie o QR Code abaixo com o app do seu banco:</p>
-  
-  <!-- Aqui está a chamada para a imagem que você acabou de subir -->
   <img src="pix.jpg" width="130" alt="QR Code PIX">
 
   <p>Ou se preferir, use a chave PIX aleatória (Copie e Cole):</p>
