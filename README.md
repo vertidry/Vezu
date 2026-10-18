@@ -1,5 +1,3 @@
-# Vezu
-
 <p align="center">
   <img src="GoldFish_Aquário.png" width="150" alt="Ícone do Vezu">
 </p>
