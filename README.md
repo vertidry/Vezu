@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="GoldFish_Aquário.png" width="70" alt="Ícone do Vezu" valign="middle"> Vezu
+  <img src="GoldFish_Aquário.png" width="40" alt="Ícone do Vezu" valign="middle"> Vezu
 </h1>
 
 <p align="center">
