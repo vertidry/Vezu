@@ -25,11 +25,16 @@ Edições básicas (cortar, girar, ajustar).<br>
 Otimizado para funções extras de impressão.<br>
 Criação de cartazes montáveis usando a Função de Mosaico.
 
+<br>
+<br>
+
+---
+
 ### Apoie com pix
 
 Escaneie o QR Code abaixo com o app do seu banco:
 
-<img src="pix.jpg" width="140" alt="QR Code PIX">
+<img src="pix.jpg" width="130" alt="QR Code PIX">
 
-Ou se preferir, use a chave PIX abaixo:<br>
+Ou se preferir, use a chave PIX aleatória (Copie e Cole):<br>
 <code>b90456bb-ca54-4753-a307-a043b0a2cea4</code>
