@@ -25,9 +25,7 @@ Edições básicas (cortar, girar, ajustar).<br>
 Otimizado para funções extras de impressão.<br>
 Criação de cartazes montáveis usando a Função de Mosaico.
 
-## ❤️ Apoie o Projeto
-
-O Vezu é um projeto gratuito e de código aberto. Se ele for útil para você, considere fazer uma doação de qualquer valor para apoiar o desenvolvimento!
+## ❤️ Apoie
 
 <div align="center">
   <p>Escaneie o QR Code abaixo com o app do seu banco:</p>
