@@ -12,7 +12,6 @@
   <a href="../../releases">
     <img src="https://img.shields.io/badge/Download-Em%20Breve-blue?style=for-the-badge&logo=windows" alt="Download">
   </a>
-  <img src="https://img.shields.io/badge/Status-Em%20Breve-yellow?style=for-the-badge" alt="Status">
 </p>
 
 ---
