@@ -31,5 +31,5 @@ Escaneie o QR Code abaixo com o app do seu banco:
 
 <img src="pix.jpg" width="130" alt="QR Code PIX">
 
-Ou se preferir, use a chave PIX aleatória (Copie e Cole):<br>
+Ou se preferir, use a chave PIX abaixo::<br>
 <code>b90456bb-ca54-4753-a307-a043b0a2cea4</code>
