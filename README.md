@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="GoldFish_Aquário.png" width="40" alt="Ícone do Vezu" valign="middle"> Vezu
-</h1>
+<p align="center">
+  <img src="GoldFish_Aquário.png" width="150" alt="Ícone do Vezu">
+</p>
+
+<h1 align="center">Vezu</h1>
 
 <p align="center">
   Visualizador e editor básico de imagens para Windows 10 e 11, com foco em <b>impressão rápida e eficiente</b>.
@@ -22,11 +24,6 @@ Visualização rápida de imagens.<br>
 Edições básicas (cortar, girar, ajustar).<br>
 Otimizado para funções extras de impressão.<br>
 Criação de cartazes montáveis usando a Função de Mosaico.
-
-<br>
-<br>
-
----
 
 ### Apoie com pix
 
