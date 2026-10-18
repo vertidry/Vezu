@@ -1,7 +1,7 @@
 # Vezu
 
 <p align="center">
-  <img src="goldfish_Aquário.png" width="150" alt="Ícone do Vezu">
+  <img src="GoldFish_Aquário.png" width="150" alt="Ícone do Vezu">
 </p>
 
 <h1 align="center">Vezu</h1>
