@@ -1,7 +1,6 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="GoldFish_Aquário.png" width="90" alt="Ícone do Vezu">
-  <h1 style="margin: 0;">Vezu</h1>
-</div>
+<h1 align="center">
+  <img src="GoldFish_Aquário.png" width="70" alt="Ícone do Vezu" valign="middle"> Vezu
+</h1>
 
 <p align="center">
   Visualizador e editor básico de imagens para Windows 10 e 11, com foco em <b>impressão rápida e eficiente</b>.
