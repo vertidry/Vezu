@@ -33,10 +33,8 @@ O Vezu é um projeto gratuito e de código aberto. Se ele for útil para você, 
   <p>Escaneie o QR Code abaixo com o app do seu banco:</p>
   
   <!-- Aqui está a chamada para a imagem que você acabou de subir -->
-  <img src="pix.jpg" width="200" alt="QR Code PIX">
-  
-  <br><br>
-  
+  <img src="pix.jpg" width="100" alt="QR Code PIX">
+
   <p>Ou se preferir, use a chave PIX aleatória (Copie e Cole):</p>
   <code>b90456bb-ca54-4753-a307-a043b0a2cea4</code>
 </div>
