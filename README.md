@@ -20,6 +20,6 @@
 O **Vezu** nasceu para resolver um problema simples: visualizar e fazer edições básicas em imagens de forma rápida, especialmente quando o objetivo final é a impressão.
 
    Visualização rápida de imagens.
-   Edições básicas (cortar, girar, ajustar, Ajuste de cor, desenho).
+   Edições básicas (cortar, girar, ajustar).
    Otimizado para funções extras de impressão.
    Criação de cartazes montáveis usando a Função de Mosaico.
