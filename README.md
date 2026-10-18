@@ -25,7 +25,7 @@ Edições básicas (cortar, girar, ajustar).<br>
 Otimizado para funções extras de impressão.<br>
 Criação de cartazes montáveis usando a Função de Mosaico.
 
-## ❤️ Apoie
+## Apoie com pix
 
 <div align="center">
   <p>Escaneie o QR Code abaixo com o app do seu banco:</p>
